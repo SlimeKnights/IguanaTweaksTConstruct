@@ -141,6 +141,10 @@ item.iguana.tcon.clayBucket.Silver.name=Глиняное ведро распла
 item.iguana.tcon.clayBucket.Shiny.name=Глиняное ведро расплавленной платины
 item.iguana.tcon.clayBucket.Invar.name=Глиняное ведро расплавленного инвара
 item.iguana.tcon.clayBucket.Electrum.name=Глиняное ведро расплавленного электрума
+item.iguana.tcon.clayBucket.Lumium.name=Глиняное ведро расплавленного ламиума
+item.iguana.tcon.clayBucket.Signalum.name=Глиняное ведро расплавленного синала
+item.iguana.tcon.clayBucket.Mithril.name=Глиняное ведро расплавленного мифрила
+item.iguana.tcon.clayBucket.Enderium.name=Глиняное ведро расплавленного эндериума
 item.iguana.tcon.clayBucket.Ender.name=Глиняное ведро жидкости Края
 item.iguana.tcon.clayBucket.Slime.name=Глиняное ведро жидкой слизи
 item.iguana.tcon.clayBucket.PigIron.name=Глиняное ведро расплавленного свиного железа
@@ -148,20 +152,19 @@ item.iguana.tcon.clayBucket.Glue.name=Глиняное ведро липкого
 
 item.iguana.tcon.sawArdite.name=Ардитовая пила
 item.iguana.tcon.sawCobalt.name=Кобальтовая пила
-item.iguana.tcon.sawManyullyn.name=Кобальтовая пила
+item.iguana.tcon.sawManyullyn.name=Мануллиновая пила
 
 item.iguana.tcon.skull.enderman.name=Голова странника Края
 item.iguana.tcon.skull.pigman.name=Голова свиночеловека
 item.iguana.tcon.skull.blaze.name=Голова ифрита
 item.iguana.tcon.skull.blizz.name=Голова бурана
 
-
 item.iguana.tcon.wearable.bucketHoley.name=Дырявое ведро
 item.iguana.tcon.wearable.clayBucketCracked.name=Треснувшее глиняное ведро
 item.iguana.tcon.wearable.endermanJaw.name=Челюсть странника Края
 item.iguana.tcon.wearable.bathat.name=Шапка летучей мыши
 
-tooltip.bucketHoley=Ведро с дырками. Как бесполезно.
+tooltip.bucketHoley=Ведро с дырками. Какое бесполезное.
 tooltip.clayBucketCracked=Оно сломано. :(
 tooltip.endermanJaw=Замечен явный недостаток головы.
 tooltip.bathat=NANANANANANANANA

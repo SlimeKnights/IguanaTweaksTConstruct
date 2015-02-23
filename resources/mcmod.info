@@ -6,9 +6,6 @@
     "version": "${version}",
     "mcversion": "${MCversion}",
     "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176855",
-    "authorList": [
-      "boni",
-      "iguana_man"
-    ]
+    "authorList": [ "boni", "iguana_man" ],
   }
 ]
