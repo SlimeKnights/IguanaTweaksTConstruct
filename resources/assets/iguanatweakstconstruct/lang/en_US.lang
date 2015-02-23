@@ -141,6 +141,10 @@ item.iguana.tcon.clayBucket.Silver.name=Molten Silver Clay Bucket
 item.iguana.tcon.clayBucket.Shiny.name=Molten Shiny Clay Bucket
 item.iguana.tcon.clayBucket.Invar.name=Molten Invar Clay Bucket
 item.iguana.tcon.clayBucket.Electrum.name=Molten Electrum Clay Bucket
+item.iguana.tcon.clayBucket.Lumium.name=Molten Lumium Clay Bucket
+item.iguana.tcon.clayBucket.Signalum.name=Molten Signalum Clay Bucket
+item.iguana.tcon.clayBucket.Mithril.name=Molten Mana Infused Metal Clay Bucket
+item.iguana.tcon.clayBucket.Enderium.name=Molten Enderium Clay Bucket
 item.iguana.tcon.clayBucket.Ender.name=Liquified Ender Clay Bucket
 item.iguana.tcon.clayBucket.Slime.name=Liquid Slime Clay Bucket
 item.iguana.tcon.clayBucket.PigIron.name=Molten Pig Iron Clay Bucket
@@ -154,7 +158,6 @@ item.iguana.tcon.skull.enderman.name=Enderman Head
 item.iguana.tcon.skull.pigman.name=Pigman Head
 item.iguana.tcon.skull.blaze.name=Blaze Head
 item.iguana.tcon.skull.blizz.name=Blizz Head
-
 
 item.iguana.tcon.wearable.bucketHoley.name=Holey Bucket
 item.iguana.tcon.wearable.clayBucketCracked.name=Cracked Clay Bucket
