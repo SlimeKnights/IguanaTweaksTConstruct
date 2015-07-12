@@ -340,6 +340,10 @@ public final class ReplacementLogic {
                 ModRedstone modRedstone = (ModRedstone)mod;
                 if(modRedstone instanceof ModXpAwareRedstone)
                     modRedstone = ((ModXpAwareRedstone)modRedstone).originalModifier;
+                
+                if(!modRedstone.stacks.contains(new ItemStack(Items.redstone)))
+                	continue;
+                
                 int[] keyPair = tags.getIntArray("Redstone");
                 // get amount of redstone applied
                 int rLvl = keyPair[0];
