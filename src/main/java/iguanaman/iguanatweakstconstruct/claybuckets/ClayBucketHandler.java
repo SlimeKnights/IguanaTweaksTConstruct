@@ -91,8 +91,6 @@ public class ClayBucketHandler {
 
                 return;
             }
-
-            event.setCanceled(true);
         }
     }
 }
