@@ -49,10 +49,10 @@ message.levelup.stonebound=Es hat sich in Steine verliebt
 message.levelup.critical=Du fuchtelst wild damit herum
 
 message.levelup.redstone.tag=Eile
-message.levelup.lapis.tag=Flück
+message.levelup.lapis.tag=Glück
 message.levelup.autosmelt.tag=Schmelzend
 message.levelup.silktouch.tag=Behutsamkeit
-message.levelup.diamond.tag=Diamont
+message.levelup.diamond.tag=Diamant
 message.levelup.emerald.tag=Smaragd
 message.levelup.repair.tag=Reparatur
 message.levelup.reinforced.tag=Verstärkt
