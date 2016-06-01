@@ -18,14 +18,16 @@ public class FlintHandler {
         if(event.block != null && event.block == Blocks.gravel)
         {
             ListIterator<ItemStack> iter = event.drops.listIterator();
-            boolean hasGravel = false;
+            boolean hasGravel = true;
             while(iter.hasNext())
             {
                 Item item = iter.next().getItem();
                 if(item == Items.flint)
+                {
                     iter.remove();
-                else if(item == Item.getItemFromBlock(Blocks.gravel))
-                    hasGravel = true;
+                    hasGravel = false;
+                    break;
+                }
             }
 
             // ensure that gravel drops
